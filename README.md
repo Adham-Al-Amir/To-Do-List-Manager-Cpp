@@ -63,4 +63,4 @@ The program automatically saves tasks to a file when exiting and loads them when
 
 ## 👨‍💻 Author
 
-- Adham Al-Amir
+- Adham Al Amir
