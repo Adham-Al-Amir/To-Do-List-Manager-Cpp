@@ -14,26 +14,26 @@ The system allows users to add, delete, update, search, and manage tasks in a st
 
 ## ⚙️ Features
 
-- ➕ Add new tasks
-- ❌ Delete tasks
-- 🔄 Update tasks
-- 🔍 Search for tasks by ID
-- ↩️ Undo last deleted task
-- 📊 Priority sorting (High → Medium → Low)
-- 💾 Save tasks to file
-- 📂 Load tasks from file
+- ➕ Add new tasks  
+- ❌ Delete tasks  
+- 🔄 Update tasks  
+- 🔍 Search for tasks by ID  
+- ↩️ Undo last deleted task  
+- 📊 Priority sorting (High → Medium → Low)  
+- 💾 Save tasks to file  
+- 📂 Load tasks from file  
 
 ---
 
 ## 🧠 Data Structures Used
 
-- Doubly Linked List → for storing tasks
-- Stack → for Undo functionality
+- Doubly Linked List → for storing tasks  
+- Stack → for Undo functionality  
 
 ---
 
 ## ▶️ How to Run
 
-1. Compile the program:
+### 1. Compile:
 ```bash
 g++ todo_list.cpp -o todo
