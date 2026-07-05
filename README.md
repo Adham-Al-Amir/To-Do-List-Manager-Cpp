@@ -37,3 +37,22 @@ The system allows users to add, delete, update, search, and manage tasks in a st
 ### 1. Compile:
 ```bash
 g++ todo_list.cpp -o todo
+2. Run:
+Execute the compiled program:
+
+Bash
+./todo
+📷 Example Usage
+Add a task with a specific priority (High, Medium, Low).
+
+Delete a task simply by providing its ID.
+
+Undo your last deletion instantly if you made a mistake.
+
+Display all tasks sorted by their priority.
+
+📁 File Handling
+The program features built-in file handling. It automatically saves your tasks to a local file when exiting and loads them back when you start the program again, ensuring no data is lost!
+
+👨‍💻 Author
+Adham Al-Amir
