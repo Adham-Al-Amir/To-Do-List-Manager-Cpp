@@ -1,3 +1,6 @@
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # 📝 To-Do List Manager (C++)
 
 ## 📌 Description
